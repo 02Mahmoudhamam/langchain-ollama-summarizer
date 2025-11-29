@@ -1,0 +1,1 @@
+LangChain is a framework that helps developers build advanced LLM applications by combining models, prompts, memory, and external tools.
